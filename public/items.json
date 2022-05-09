@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Samsung",
+      "price": 300,
+      "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+      "img": "../src/images/Galaxy-A-Unpacked_press-release_main3.jpg",
+      "quantity": 20,
+      "supplier-name": "Apon"
+    },
+    {
+      "name": "Apple",
+      "price": 400,
+      "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+      "img": "../src/images/photo-1592832122594-c0c6bad718b1.jpg",
+      "quantity": 8,
+      "supplier-name": "Hoppa"
+    },
+    {
+      "name": "MI",
+      "price": 500,
+      "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+      "img": "../src/images/Mi-11X-5G-Cosmic-Black-9.jpg",
+      "quantity": 20,
+      "supplier-name": "ARdwan"
+    },
+    {
+      "name": "Realme",
+      "price": 600,
+      "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+      "img": "../src/images/realme.jpeg",
+      "quantity": 52,
+      "supplier-name": "Sadman"
+    },
+    {
+      "name": "Walton",
+      "price": 700,
+      "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+      "img": "../src/images/walton.jpg",
+      "quantity": 9,
+      "supplier-name": "Tasin"
+    },
+    {
+        "name": "Huawei",
+        "price": 800,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "../src/images/huawei.png",
+        "quantity": 8,
+        "supplier-name": "Asif"
+      },
+      {
+        "name": "Oppo",
+        "price": 900,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "../src/images/oppo.jpg",
+        "quantity": 10,
+        "supplier-name": "fuad"
+      }
+  ]
